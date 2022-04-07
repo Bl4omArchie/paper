@@ -1,0 +1,12 @@
+Question 1: Quels sont les impacts du minage de crypto-monnaie sur notre environnement ? Quelles sont les solutions ?
+=> sur-conso du minage (ferme) des crypto-monnaies
+ex: https://qz.com/1982209/how-bitcoin-can-become-more-climate-friendly/
+    https://link.springer.com/article/10.1007/s12599-020-00656-x
+    https://greenbull-campus.fr/immobilier/guide/patrimoine/diversifier/proof-of-stake
+    https://www.numerama.com/tech/713345-lethereum-passe-a-la-proof-of-stake-tout-comprendre-a-cette-revolution-dans-les-cryptomonnaies.html
+
+Quelles sont nos responsabilités face à ces usages excessifs (ex: crypto-monnaie, cloud...)
+
+Question 2: Comment utiliser l'informatique pour répondre aux enjeux de développement durable actuels ?
+=> Domotique, gestion de système auto-suffisant (arduino) permettant l'amélioration de notre environnement
+ex: potager d'intérieur, murs végétaux, micro-algue, radiateur serveur (https://qarnot.com/fr)...
